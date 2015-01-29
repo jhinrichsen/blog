@@ -1,2 +1,25 @@
-# blog
+= My Blog Space
+J. Hinrichsen
+
 My Blog Space
+
+== Another blog
+
+After years of setting up new blogs, either online in one of uncountable online blog systems,
+or offline using static site generators such as Hakyll and the like, i sudenly realize Github
+supports Asciidoc (The Standard)/ Asciidoctor (The Implementation) out of the box.
+
+You might wonder 'Hey, what's the fuzz all about, Markdown has been there forever?' but there's
+a fundamental difference in the two: '.adoc' files are part of a publishing pipeline. It's designed
+with output format Docbook in mind, and once you enter Docbook, you're in press business. Much like 
+Coffeescript being a nice language, but the real power comes from transpiling it to JavaScript.
+
+There's a lot of professional documenation existing in .adoc today. O'Reillys accepts _Books_ to be
+delivered in '.adoc.'.
+
+And Asciidoc has an API that allows me to extract information from '.adoc' files. One of my files
+is a report, containing a couple of tables, that i periodically scan for reporting/ statistical
+purposes.
+
+Dan Allen and Sarah White have created an outstanding piece of software and brought Asciidoc to the
+next level. Congrats!
