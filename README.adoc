@@ -12,8 +12,8 @@ a fundamental difference in the two: '.adoc' files are part of a publishing pipe
 with output format Docbook in mind, and once you enter Docbook, you're in press business. Much like 
 Coffeescript being a nice language, but the real power comes from transpiling it to JavaScript.
 
-There's a lot of professional documenation existing in .adoc today. O'Reillys accepts _Books_ to be
-delivered in '.adoc.'.
+There's a lot of professional documentation existing in .adoc today. O'Reillys accepts _Books_ to be
+delivered in '.adoc'.
 
 And Asciidoc has an API that allows me to extract information from '.adoc' files. One of my files
 is a report, containing a couple of tables, that i periodically scan for reporting/ statistical
