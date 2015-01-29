@@ -1,8 +1,6 @@
 = My Blog Space
 J. Hinrichsen
 
-My Blog Space
-
 == Another blog
 
 After years of setting up new blogs, either online in one of uncountable online blog systems,
